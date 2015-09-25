@@ -9,6 +9,7 @@ Step for student
     git remote add upstream < original url repository>
 
 Step to fetch from original repository for update local repository
-1. git fetch upstream
-2. git checkout master
-3. git merge upstream/master
+git pull upstream master
+
+step to push to your remote github
+git push
